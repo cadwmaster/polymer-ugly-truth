@@ -1,4 +1,7 @@
 ##  Next Steps
+PWA  
+Update to Polymer 2.0  
+Optimization
 
 note:
     * sw
