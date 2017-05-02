@@ -1,7 +1,8 @@
 ##  Check the catalog
 
-This is a new Markdown slide
-
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+  start to play with elements
+  portability and reusability
+  abstract complexity out of the app
+  flexibility
+  we start with polymer 1.0

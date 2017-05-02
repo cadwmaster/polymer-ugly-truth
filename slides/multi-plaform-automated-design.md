@@ -1,7 +1,8 @@
 ##  Multi-plaform automated design
 
-This is a new Markdown slide
-
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+  * integrate native and web in one team
+  * get designers on board for component design
+  * sketch / zeplin mix
+  * designer create a repository with a json design catalog and the assets
+  * gulp scripts to build the app 

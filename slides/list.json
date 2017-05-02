@@ -1,31 +1,7 @@
 [
     "index.md",
     {
-        "filename": "icemobile.md",
-        "attr": {
-            "data-background": "#ff0000"
-        }
-    },
-    {
         "filename": "why-web-components.md",
-        "attr": {
-            "data-background": "#ff0000"
-        }
-    },
-    {
-        "filename": "atomic-components.md",
-        "attr": {
-            "data-background": "#ff0000"
-        }
-    },
-    {
-        "filename": "a-year-after-working-with-polymer.md",
-        "attr": {
-            "data-background": "#ff0000"
-        }
-    },
-    {
-        "filename": "not-everything-is-a-component.md",
         "attr": {
             "data-background": "#ff0000"
         }
@@ -37,43 +13,19 @@
         }
     },
     {
-        "filename": "don-t-add-polyfills-in-your-components.md",
-        "attr": {
-            "data-background": "#ff0000"
-        }
-    },
-    {
-        "filename": "be-consistent.md",
-        "attr": {
-            "data-background": "#ff0000"
-        }
-    },
-    {
         "filename": "issues-with-polymer-1-0.md",
         "attr": {
             "data-background": "#ff0000"
         }
     },
     {
-        "filename": "version-of-the-elements.md",
+        "filename": "creating-our-first-components.md",
         "attr": {
             "data-background": "#ff0000"
         }
     },
     {
-        "filename": "be-lazy.md",
-        "attr": {
-            "data-background": "#ff0000"
-        }
-    },
-    {
-        "filename": "learn-and-understand-the-lifecycle.md",
-        "attr": {
-            "data-background": "#ff0000"
-        }
-    },
-    {
-        "filename": "implement-service-workers-asap.md",
+        "filename": "not-everything-is-a-component.md",
         "attr": {
             "data-background": "#ff0000"
         }
@@ -85,17 +37,23 @@
         }
     },
     {
-        "filename": "dinamyc-metadata.md",
-        "attr": {
-            "data-background": "#ff0000"
-        }
-    },
-    {
         "filename": "multi-plaform-automated-design.md",
         "attr": {
             "data-background": "#ff0000"
         }
     },
+    {
+        "filename": "a-year-after-working-with-polymer.md",
+        "attr": {
+            "data-background": "#ff0000"
+        }
+    },
+    {
+        "filename": "next-steps.md",
+        "attr": {
+            "data-background": "#ff0000"
+        }
+    }
     {
         "filename": "thank-you.md",
         "attr": {

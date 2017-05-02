@@ -1,7 +1,8 @@
 ##  Issues with Polymer 1.0
 
-This is a new Markdown slide
-
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+  structure of elements
+  documentation was crap
+  versioning, elements didn't work well with others             --- nodejs at the beginning
+  not production ready                                          --- screenshot of polymer 1.0docs
+  so we start ...

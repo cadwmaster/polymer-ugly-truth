@@ -1,7 +1,7 @@
 ##  Wny Web Components ?
 
-This is a new Markdown slide
-
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+  new web solution to our product
+  discussion about React/Web Components
+  Web components is sexy
+  so we start

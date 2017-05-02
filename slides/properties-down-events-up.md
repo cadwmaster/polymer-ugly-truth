@@ -1,7 +1,7 @@
 ##  Properties down, events up
 
-This is a new Markdown slide
-
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+- be-lazy
+- events
+- async
+- waiting for other components
