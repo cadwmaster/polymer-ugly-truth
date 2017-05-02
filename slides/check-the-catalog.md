@@ -1,7 +1,7 @@
-##  Check the catalog
+##  The catalog
 
-![alt text](images/web_components.svg)
-### https://webcomponents.org
+![https://webcomponents.org](images/web_components.png)  
+https://webcomponents.org
 
 note:
   * start to play with elements
