@@ -1,4 +1,7 @@
 ##  A year after working with Polymer...
+  WebComponents are still sexy!  
+  First 2 implementations within 3 months  
+  Deliver in one sprint
 
 note:
   web components are still sexy

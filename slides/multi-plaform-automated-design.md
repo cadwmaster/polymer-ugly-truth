@@ -1,4 +1,5 @@
 ##  Multi-plaform automated design
+  iOS, Android, Components and Responsive Website
 
 note:
   * integrate native and web in one team
