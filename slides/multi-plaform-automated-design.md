@@ -7,3 +7,4 @@ note:
   * sketch / zeplin mix
   * designer create a repository with a json design catalog and the assets
   * gulp scripts to build the app 
+  * DEMO - > RICK
