@@ -6,3 +6,4 @@ note:
     * updating 2.0
     * animations
     * http2
+    * optimization

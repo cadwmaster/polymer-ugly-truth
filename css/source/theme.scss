@@ -48,6 +48,21 @@ section.has-light-background {
 	}
 }
 
+.reveal .footer {
+  position: absolute;
+  bottom: 1em;
+  right: 1em;
+  font-size: 0.5em;
+    img {
+      max-width: 200px;
+    }
+}
+
 // Theme template ------------------------------
 @import "../../bower_components/reveal.js/css/theme/template/theme";
 // ---------------------------------------------
+
+
+.reveal section img {
+  border: none;
+}

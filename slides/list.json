@@ -1,63 +1,68 @@
 [
-    "index.md",
+    {
+        "filename": "index.md",
+        "attr": {
+            "data-background": "#2B363C"
+        }
+    },
     {
         "filename": "why-web-components.md",
         "attr": {
-            "data-background": "#ff0000"
+            "data-background": "#2B363C"
         }
     },
     {
         "filename": "check-the-catalog.md",
         "attr": {
-            "data-background": "#ff0000"
+            "data-background": "#2B363C"
         }
     },
     {
         "filename": "issues-with-polymer-1-0.md",
         "attr": {
-            "data-background": "#ff0000"
+            "data-background": "#2B363C"
         }
     },
     {
         "filename": "creating-our-first-components.md",
         "attr": {
-            "data-background": "#ff0000"
+            "data-background": "#2B363C"
         }
     },
     {
         "filename": "not-everything-is-a-component.md",
         "attr": {
-            "data-background": "#ff0000"
+            "data-background": "#2B363C"
         }
     },
     {
         "filename": "properties-down-events-up.md",
         "attr": {
-            "data-background": "#ff0000"
+            "data-background": "#2B363C"
         }
     },
     {
         "filename": "multi-plaform-automated-design.md",
         "attr": {
-            "data-background": "#ff0000"
+            "data-background": "#2B363C"
         }
     },
     {
         "filename": "a-year-after-working-with-polymer.md",
         "attr": {
-            "data-background": "#ff0000"
+            "data-background": "#2B363C"
         }
     },
     {
         "filename": "next-steps.md",
         "attr": {
-            "data-background": "#ff0000"
+            "data-background": "#2B363C"
         }
-    }
+    },
     {
         "filename": "thank-you.md",
         "attr": {
-            "data-background": "#ff0000"
+            "data-background": "#2B363C"
         }
     }
 ]
