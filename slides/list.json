@@ -3,61 +3,61 @@
     {
         "filename": "why-web-components.md",
         "attr": {
-            "data-background": "#ff0000"
+            "data-background": "#ede7f6"
         }
     },
     {
         "filename": "check-the-catalog.md",
         "attr": {
-            "data-background": "#ff0000"
+            "data-background": "#d1c4e9"
         }
     },
     {
         "filename": "issues-with-polymer-1-0.md",
         "attr": {
-            "data-background": "#ff0000"
+            "data-background": "#b39ddb"
         }
     },
     {
         "filename": "creating-our-first-components.md",
         "attr": {
-            "data-background": "#ff0000"
+            "data-background": "#9575cd"
         }
     },
     {
         "filename": "not-everything-is-a-component.md",
         "attr": {
-            "data-background": "#ff0000"
+            "data-background": "#7e57c2"
         }
     },
     {
         "filename": "properties-down-events-up.md",
         "attr": {
-            "data-background": "#ff0000"
+            "data-background": "#673ab7"
         }
     },
     {
         "filename": "multi-plaform-automated-design.md",
         "attr": {
-            "data-background": "#ff0000"
+            "data-background": "#5e35b1"
         }
     },
     {
         "filename": "a-year-after-working-with-polymer.md",
         "attr": {
-            "data-background": "#ff0000"
+            "data-background": "#512da8"
         }
     },
     {
         "filename": "next-steps.md",
         "attr": {
-            "data-background": "#ff0000"
+            "data-background": "#4527a0"
         }
-    }
+    },
     {
         "filename": "thank-you.md",
         "attr": {
-            "data-background": "#ff0000"
+            "data-background": "#311b92"
         }
     }
 ]
