@@ -1,4 +1,4 @@
-##  Why Web Components ?
+##  Why WebComponents ?
 
 ![alt text](images/web_components_html.png)
 
