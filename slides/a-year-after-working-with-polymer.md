@@ -4,6 +4,7 @@
   Deliver in one sprint
 
 note:
+  CHRIS:
   web components are still sexy
   we improve our building process 
   we did our first two polymer only implementations in our first 3 months
