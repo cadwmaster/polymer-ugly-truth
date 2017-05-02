@@ -1,5 +1,7 @@
 ##  Creating our first components
 
+![alt text](images/jugando-con-los-colores.png)
+
 note:
   learning curve
   consistency on patterns / code standards
